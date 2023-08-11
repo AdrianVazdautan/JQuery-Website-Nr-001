@@ -1,0 +1,3 @@
+$(".buttonjs").click(function(){
+	alert()
+});
