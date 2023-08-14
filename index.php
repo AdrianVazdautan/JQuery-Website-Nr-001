@@ -8,6 +8,6 @@
 	<script defer type="text/javascript" src="src/js/js.js"></script>
 </head>
 <body>
-	<input type="button" name="" class="buttonjs">
+	<input type="button" name="" value="Test 1" class="buttonjs">
 </body>
 </html>
